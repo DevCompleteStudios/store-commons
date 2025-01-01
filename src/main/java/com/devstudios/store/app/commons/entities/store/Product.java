@@ -1,4 +1,4 @@
-package com.devstudios.store.app.commons.entities;
+package com.devstudios.store.app.commons.entities.store;
 
 import java.time.LocalDateTime;
 
